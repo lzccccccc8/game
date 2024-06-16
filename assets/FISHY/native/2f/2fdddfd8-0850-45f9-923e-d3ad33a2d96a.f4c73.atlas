@@ -1,0 +1,125 @@
+
+God.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+祥云
+  rotate: false
+  xy: 1, 1
+  size: 220, 125
+  orig: 220, 125
+  offset: 0, 0
+  index: -1
+银子
+  rotate: false
+  xy: 1, 205
+  size: 140, 87
+  orig: 140, 87
+  offset: 0, 0
+  index: -1
+主体
+  rotate: false
+  xy: 143, 205
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+右-头匾
+  rotate: false
+  xy: 196, 163
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+左-头匾
+  rotate: false
+  xy: 196, 128
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+图层 26
+  rotate: false
+  xy: 224, 198
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+头部
+  rotate: false
+  xy: 125, 294
+  size: 98, 87
+  orig: 98, 87
+  offset: 0, 0
+  index: -1
+图层 4
+  rotate: false
+  xy: 1, 294
+  size: 122, 76
+  orig: 122, 76
+  offset: 0, 0
+  index: -1
+图层 19
+  rotate: false
+  xy: 224, 248
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+图层 29
+  rotate: false
+  xy: 223, 1
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+右胡须
+  rotate: false
+  xy: 223, 76
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+右闪光
+  rotate: false
+  xy: 1, 372
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+右鞋
+  rotate: false
+  xy: 103, 383
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+左胡须
+  rotate: false
+  xy: 223, 40
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+左闪光
+  rotate: false
+  xy: 1, 437
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+左鞋
+  rotate: false
+  xy: 65, 372
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+得分牌
+  rotate: false
+  xy: 1, 128
+  size: 193, 75
+  orig: 193, 75
+  offset: 0, 0
+  index: -1

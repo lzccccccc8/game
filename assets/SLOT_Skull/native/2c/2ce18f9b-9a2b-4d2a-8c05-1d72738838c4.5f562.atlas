@@ -1,0 +1,13 @@
+bigwin.png
+size: 2025,2030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flare
+  rotate: false
+  xy:1,1
+  size:960,400
+  orig:960,400
+  offset:0,0
+  index: -1
+

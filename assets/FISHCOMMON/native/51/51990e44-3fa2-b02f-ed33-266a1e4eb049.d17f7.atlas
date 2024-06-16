@@ -1,0 +1,146 @@
+
+401.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+头发
+  rotate: false
+  xy: 1, 469
+  size: 128, 69
+  orig: 128, 69
+  offset: 0, 0
+  index: -1
+右手
+  rotate: false
+  xy: 131, 531
+  size: 106, 35
+  orig: 106, 35
+  offset: 0, 0
+  index: -1
+下半身
+  rotate: false
+  xy: 1, 1
+  size: 317, 136
+  orig: 317, 136
+  offset: 0, 0
+  index: -1
+躯干
+  rotate: false
+  xy: 131, 469
+  size: 104, 60
+  orig: 104, 60
+  offset: 0, 0
+  index: -1
+头部
+  rotate: false
+  xy: 241, 139
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 320, 111
+  size: 118, 108
+  orig: 118, 108
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 361, 331
+  size: 118, 108
+  orig: 118, 108
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 320, 1
+  size: 118, 108
+  orig: 118, 108
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 241, 331
+  size: 118, 108
+  orig: 118, 108
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1, 249
+  size: 118, 108
+  orig: 118, 108
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 361, 441
+  size: 118, 107
+  orig: 118, 107
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1, 139
+  size: 118, 108
+  orig: 118, 108
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 241, 221
+  size: 118, 108
+  orig: 118, 108
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 121, 139
+  size: 118, 108
+  orig: 118, 108
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 361, 221
+  size: 118, 108
+  orig: 118, 108
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 241, 441
+  size: 118, 108
+  orig: 118, 108
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 121, 359
+  size: 118, 108
+  orig: 118, 108
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 361, 550
+  size: 115, 108
+  orig: 115, 108
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1, 359
+  size: 118, 108
+  orig: 118, 108
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 121, 249
+  size: 118, 108
+  orig: 118, 108
+  offset: 0, 0
+  index: -1

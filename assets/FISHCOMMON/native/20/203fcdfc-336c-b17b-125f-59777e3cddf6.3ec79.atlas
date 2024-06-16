@@ -1,0 +1,41 @@
+
+海龟.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+后脚1
+  rotate: false
+  xy: 52, 84
+  size: 49, 19
+  orig: 49, 19
+  offset: 0, 0
+  index: -1
+后脚1-1
+  rotate: false
+  xy: 1, 84
+  size: 49, 19
+  orig: 49, 19
+  offset: 0, 0
+  index: -1
+前脚1
+  rotate: false
+  xy: 141, 47
+  size: 80, 44
+  orig: 80, 44
+  offset: 0, 0
+  index: -1
+前脚1-1
+  rotate: false
+  xy: 141, 1
+  size: 80, 44
+  orig: 80, 44
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 1, 1
+  size: 138, 81
+  orig: 138, 81
+  offset: 0, 0
+  index: -1

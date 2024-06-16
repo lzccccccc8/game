@@ -1,0 +1,97 @@
+rouge1.png
+size: 2032,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottle_3_seq_00010
+  rotate: false
+  xy:628,272
+  size:200,228
+  orig:200,228
+  offset:0,0
+  index: -1
+bottle_3_seq_00011
+  rotate: false
+  xy:628,508
+  size:200,228
+  orig:200,228
+  offset:0,0
+  index: -1
+bottle_3_seq_00012
+  rotate: false
+  xy:628,744
+  size:200,228
+  orig:200,228
+  offset:0,0
+  index: -1
+bottle_3_seq_00013
+  rotate: false
+  xy:628,980
+  size:200,228
+  orig:200,228
+  offset:0,0
+  index: -1
+bottle_3_seq_00014
+  rotate: false
+  xy:628,1216
+  size:200,228
+  orig:200,228
+  offset:0,0
+  index: -1
+bottle_3_seq_00015
+  rotate: false
+  xy:628,1452
+  size:200,228
+  orig:200,228
+  offset:0,0
+  index: -1
+bottle_3_seq_00016
+  rotate: false
+  xy:628,1688
+  size:200,228
+  orig:200,228
+  offset:0,0
+  index: -1
+bottle_3_seq_00017
+  rotate: false
+  xy:836,4
+  size:200,228
+  orig:200,228
+  offset:0,0
+  index: -1
+bottle_3_seq_00018
+  rotate: false
+  xy:836,240
+  size:200,228
+  orig:200,228
+  offset:0,0
+  index: -1
+bottle_3_seq_00019
+  rotate: false
+  xy:1044,4
+  size:200,228
+  orig:200,228
+  offset:0,0
+  index: -1
+bottle_3_seq_00020
+  rotate: false
+  xy:836,476
+  size:200,228
+  orig:200,228
+  offset:0,0
+  index: -1
+bottle_3_seq_00021
+  rotate: false
+  xy:1044,240
+  size:200,228
+  orig:200,228
+  offset:0,0
+  index: -1
+bottle_3_seq_00022
+  rotate: false
+  xy:1252,4
+  size:200,228
+  orig:200,228
+  offset:0,0
+  index: -1
+

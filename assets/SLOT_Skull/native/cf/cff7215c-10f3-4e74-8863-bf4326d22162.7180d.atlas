@@ -1,0 +1,13 @@
+rouge0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_wall
+  rotate: false
+  xy:448,1224
+  size:1180,388
+  orig:1180,388
+  offset:0,0
+  index: -1
+
