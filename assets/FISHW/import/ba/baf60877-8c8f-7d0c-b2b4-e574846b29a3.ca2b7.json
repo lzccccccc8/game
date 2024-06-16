@@ -1,1 +1,0 @@
-[1,["3cWLoVF6+hCvXrFRens+pH"],["value"],[["cc.AnimationClip",["_name","_duration","events","curveData"],0,11]],[[0,0,1,2,3,4]],[[0,"drillHit",0.15,[{"frame":0.15,"func":"onHitFinish","params":[]}],[{},"comps",11,[{},"cc.Sprite",11,[{},"spriteFrame",12,[[[{"frame":0},"value",6,0]],11]]]]]],0,0,[0],[0],[0]]

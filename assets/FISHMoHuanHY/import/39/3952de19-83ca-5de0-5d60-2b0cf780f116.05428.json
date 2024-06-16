@@ -1,1 +1,0 @@
-[1,0,0,[["cc.AnimationClip",["_name","_duration","sample","events","curveData"],-2]],[[0,0,1,2,3,4,6]],[[0,"dujiao",0.7916666666666666,24,[{"frame":0.7916666666666666,"func":"onHitFinish","params":[]}],{"props":{"position":[{"frame":0.7916666666666666,"value":[0,9.43,0]}]},"comps":{"cc.CircleCollider":{"editing":[{"frame":0.7916666666666666,"value":true}]}}}]],0,0,[],[],[]]
