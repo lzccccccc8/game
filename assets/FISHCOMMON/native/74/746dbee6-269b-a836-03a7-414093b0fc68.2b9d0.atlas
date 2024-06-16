@@ -1,0 +1,48 @@
+
+寄居蟹5.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+腿
+  rotate: false
+  xy: 1, 217
+  size: 97, 25
+  orig: 97, 25
+  offset: 0, 0
+  index: -1
+爪
+  rotate: false
+  xy: 151, 108
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 151, 194
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+眼
+  rotate: false
+  xy: 233, 194
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+默认效果
+  rotate: false
+  xy: 1, 1
+  size: 176, 105
+  orig: 176, 105
+  offset: 0, 0
+  index: -1
+发光效果
+  rotate: false
+  xy: 1, 108
+  size: 148, 107
+  orig: 148, 107
+  offset: 0, 0
+  index: -1

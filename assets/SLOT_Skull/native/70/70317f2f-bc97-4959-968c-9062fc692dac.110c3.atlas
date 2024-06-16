@@ -1,0 +1,523 @@
+supreme_rouge_popup0.png
+size: 1992,2044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI_Congratulations
+  rotate: false
+  xy:4,4
+  size:1112,892
+  orig:1112,892
+  offset:0,0
+  index: -1
+button_ok
+  rotate: false
+  xy:4,1816
+  size:304,120
+  orig:304,120
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00000
+  rotate: false
+  xy:1384,484
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00001
+  rotate: false
+  xy:344,1560
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00002
+  rotate: false
+  xy:548,1560
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00003
+  rotate: false
+  xy:972,904
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00004
+  rotate: false
+  xy:972,1184
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00005
+  rotate: false
+  xy:1176,784
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00006
+  rotate: false
+  xy:1176,1064
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00007
+  rotate: false
+  xy:752,1560
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00008
+  rotate: false
+  xy:956,1464
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00009
+  rotate: false
+  xy:1176,1344
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00010
+  rotate: false
+  xy:1588,312
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00011
+  rotate: false
+  xy:1792,312
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00012
+  rotate: false
+  xy:1588,592
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00013
+  rotate: false
+  xy:1792,592
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00014
+  rotate: false
+  xy:1384,764
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00015
+  rotate: false
+  xy:1380,1044
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00016
+  rotate: false
+  xy:1380,1324
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00017
+  rotate: false
+  xy:1588,872
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00018
+  rotate: false
+  xy:1792,872
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00019
+  rotate: false
+  xy:1584,1152
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00020
+  rotate: false
+  xy:1788,1152
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00021
+  rotate: false
+  xy:1584,1432
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00022
+  rotate: false
+  xy:1788,1432
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00023
+  rotate: false
+  xy:1380,1604
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00024
+  rotate: false
+  xy:1584,1712
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+bw_fire_p2_seq_00025
+  rotate: false
+  xy:1788,1712
+  size:196,272
+  orig:196,272
+  offset:0,0
+  index: -1
+counter
+  rotate: false
+  xy:1884,292
+  size:12,12
+  orig:12,12
+  offset:0,0
+  index: -1
+text_congratulations
+  rotate: false
+  xy:1884,292
+  size:12,12
+  orig:12,12
+  offset:0,0
+  index: -1
+text_more_free_spins
+  rotate: false
+  xy:1884,292
+  size:12,12
+  orig:12,12
+  offset:0,0
+  index: -1
+text_tequila_bonus
+  rotate: false
+  xy:1884,292
+  size:12,12
+  orig:12,12
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00001
+  rotate: false
+  xy:4,1944
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00002
+  rotate: false
+  xy:112,1944
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00003
+  rotate: false
+  xy:220,1944
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00004
+  rotate: false
+  xy:812,1452
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00005
+  rotate: false
+  xy:1884,4
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00006
+  rotate: false
+  xy:1884,108
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00007
+  rotate: false
+  xy:1160,1624
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00008
+  rotate: false
+  xy:1268,1624
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00009
+  rotate: false
+  xy:316,1840
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00010
+  rotate: false
+  xy:328,1944
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00011
+  rotate: false
+  xy:424,1840
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00012
+  rotate: false
+  xy:436,1944
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00013
+  rotate: false
+  xy:532,1840
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00014
+  rotate: false
+  xy:544,1944
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00015
+  rotate: false
+  xy:640,1840
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00016
+  rotate: false
+  xy:652,1944
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00017
+  rotate: false
+  xy:748,1840
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00018
+  rotate: false
+  xy:760,1944
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00019
+  rotate: false
+  xy:856,1840
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00020
+  rotate: false
+  xy:868,1944
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00021
+  rotate: false
+  xy:964,1804
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00022
+  rotate: false
+  xy:976,1908
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00023
+  rotate: false
+  xy:1072,1804
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00024
+  rotate: false
+  xy:1084,1908
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+glow
+  rotate: false
+  xy:1124,4
+  size:752,300
+  orig:752,300
+  offset:0,0
+  index: -1
+glow_bg
+  rotate: false
+  xy:4,904
+  size:960,540
+  orig:960,540
+  offset:0,0
+  index: -1
+gun
+  rotate: false
+  xy:1124,484
+  size:252,292
+  orig:252,292
+  offset:0,0
+  index: -1
+more_free_spins_glow_0_0
+  rotate: false
+  xy:1124,312
+  size:452,164
+  orig:452,164
+  offset:0,0
+  index: -1
+roses
+  rotate: false
+  xy:956,1744
+  size:152,52
+  orig:152,52
+  offset:0,0
+  index: -1
+rubby_2
+  rotate: false
+  xy:1884,212
+  size:72,72
+  orig:72,72
+  offset:0,0
+  index: -1
+tequilabonus_glow_0_0
+  rotate: false
+  xy:4,1452
+  size:800,100
+  orig:800,100
+  offset:0,0
+  index: -1
+
+supreme_rouge_popup1.png
+size: 1080,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame_appearence_fx_p2_seq_00025
+  rotate: false
+  xy:4,4
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00026
+  rotate: false
+  xy:112,4
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00027
+  rotate: false
+  xy:220,4
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00028
+  rotate: false
+  xy:328,4
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00029
+  rotate: false
+  xy:436,4
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00030
+  rotate: false
+  xy:544,4
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00031
+  rotate: false
+  xy:652,4
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00032
+  rotate: false
+  xy:760,4
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00033
+  rotate: false
+  xy:868,4
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+frame_appearence_fx_p2_seq_00034
+  rotate: false
+  xy:976,4
+  size:100,96
+  orig:100,96
+  offset:0,0
+  index: -1
+

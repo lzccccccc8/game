@@ -1,0 +1,96 @@
+rouge1.png
+size: 2032,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+amulet_glow
+  rotate: false
+  xy:1092,1880
+  size:128,160
+  orig:128,160
+  offset:0,0
+  index: -1
+
+rouge0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry_eyes_left
+  rotate: false
+  xy:1440,1780
+  size:80,40
+  orig:80,40
+  offset:0,0
+  index: -1
+angry_eyes_middle_0
+  rotate: false
+  xy:1568,1828
+  size:60,32
+  orig:60,32
+  offset:0,0
+  index: -1
+angry_eyes_right
+  rotate: false
+  xy:1984,1956
+  size:60,28
+  orig:60,28
+  offset:0,0
+  index: -1
+bull_eyes_glow
+  rotate: false
+  xy:1568,1868
+  size:248,160
+  orig:248,160
+  offset:0,0
+  index: -1
+left_glow_bg
+  rotate: false
+  xy:4,1960
+  size:284,80
+  orig:284,80
+  offset:0,0
+  index: -1
+left_glowing_eyes
+  rotate: false
+  xy:1932,60
+  size:112,32
+  orig:112,32
+  offset:0,0
+  index: -1
+right_glow_bg
+  rotate: false
+  xy:1640,1204
+  size:352,100
+  orig:352,100
+  offset:0,0
+  index: -1
+right_glowing_eyes
+  rotate: false
+  xy:1296,1828
+  size:264,120
+  orig:264,120
+  offset:0,0
+  index: -1
+upper_scull_glow
+  rotate: false
+  xy:296,1960
+  size:144,80
+  orig:144,80
+  offset:0,0
+  index: -1
+left_scull_glow
+  rotate: false
+  xy:1932,368
+  size:100,72
+  orig:100,72
+  offset:0,0
+  index: -1
+right_scull_glow
+  rotate: false
+  xy:1932,100
+  size:108,76
+  orig:108,76
+  offset:0,0
+  index: -1
+

@@ -1,0 +1,47 @@
+rouge0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pistol_hand
+  rotate: false
+  xy:4,1508
+  size:344,444
+  orig:344,444
+  offset:0,0
+  index: -1
+shot_fire3_seq2_00000
+  rotate: false
+  xy:1440,1620
+  size:188,152
+  orig:188,152
+  offset:0,0
+  index: -1
+shot_fire3_seq2_00001
+  rotate: false
+  xy:1800,784
+  size:216,176
+  orig:216,176
+  offset:0,0
+  index: -1
+
+rouge1.png
+size: 2032,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shot_fire3_seq2_00002
+  rotate: false
+  xy:1668,712
+  size:184,192
+  orig:184,192
+  offset:0,0
+  index: -1
+shot_fire3_seq2_00003
+  rotate: false
+  xy:1196,1656
+  size:140,188
+  orig:140,188
+  offset:0,0
+  index: -1
+

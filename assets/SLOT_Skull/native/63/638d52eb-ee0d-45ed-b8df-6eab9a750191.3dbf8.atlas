@@ -1,0 +1,888 @@
+fire_effects.png
+size: 2026,2030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus_fire_fall_00012
+  rotate: false
+  xy:1,1
+  size:352,200
+  orig:352,200
+  offset:0,0
+  index: -1
+bonus_fire_fall_00013
+  rotate: false
+  xy:1,203
+  size:352,200
+  orig:352,200
+  offset:0,0
+  index: -1
+bonus_fire_fall_00014
+  rotate: false
+  xy:355,1
+  size:352,200
+  orig:352,200
+  offset:0,0
+  index: -1
+bonus_fire_fall_00015
+  rotate: false
+  xy:1,405
+  size:352,200
+  orig:352,200
+  offset:0,0
+  index: -1
+bonus_fire_fall_00016
+  rotate: false
+  xy:355,203
+  size:352,200
+  orig:352,200
+  offset:0,0
+  index: -1
+bonus_fire_fall_00017
+  rotate: false
+  xy:709,1
+  size:352,200
+  orig:352,200
+  offset:0,0
+  index: -1
+bonus_fire_fall_00018
+  rotate: false
+  xy:1,607
+  size:352,200
+  orig:352,200
+  offset:0,0
+  index: -1
+bonus_fire_fall_00019
+  rotate: false
+  xy:355,405
+  size:352,200
+  orig:352,200
+  offset:0,0
+  index: -1
+bonus_fire_fall_00020
+  rotate: false
+  xy:709,203
+  size:352,200
+  orig:352,200
+  offset:0,0
+  index: -1
+bonus_fire_fall_00021
+  rotate: false
+  xy:1063,1
+  size:352,200
+  orig:352,200
+  offset:0,0
+  index: -1
+bonus_fire_fall_00022
+  rotate: false
+  xy:1,809
+  size:352,200
+  orig:352,200
+  offset:0,0
+  index: -1
+bonus_fire_fall_00023
+  rotate: false
+  xy:355,607
+  size:352,200
+  orig:352,200
+  offset:0,0
+  index: -1
+bonus_fire_fall_00024
+  rotate: false
+  xy:709,405
+  size:352,200
+  orig:352,200
+  offset:0,0
+  index: -1
+bonus_fire_fall_00025
+  rotate: false
+  xy:1063,203
+  size:352,200
+  orig:352,200
+  offset:0,0
+  index: -1
+spinification_p1_seq_00000
+  rotate: false
+  xy:1,1963
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00001
+  rotate: false
+  xy:147,1963
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00002
+  rotate: true
+  xy:1081,1475
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00003
+  rotate: true
+  xy:1081,1621
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00004
+  rotate: false
+  xy:725,1853
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00005
+  rotate: false
+  xy:1375,1727
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00006
+  rotate: false
+  xy:1521,1727
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00007
+  rotate: false
+  xy:1667,1727
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00008
+  rotate: false
+  xy:1813,1727
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00009
+  rotate: true
+  xy:1945,1409
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00010
+  rotate: true
+  xy:1945,1555
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00011
+  rotate: true
+  xy:1081,1767
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00012
+  rotate: false
+  xy:1375,1793
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00013
+  rotate: false
+  xy:1521,1793
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00014
+  rotate: false
+  xy:1667,1793
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00015
+  rotate: false
+  xy:1813,1793
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00016
+  rotate: false
+  xy:1375,1859
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00017
+  rotate: false
+  xy:1521,1859
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00018
+  rotate: false
+  xy:1667,1859
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00019
+  rotate: false
+  xy:1813,1859
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00020
+  rotate: true
+  xy:1959,1701
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00021
+  rotate: false
+  xy:1147,1889
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00022
+  rotate: false
+  xy:1749,1925
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00023
+  rotate: true
+  xy:1959,1847
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00024
+  rotate: false
+  xy:654,1919
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00025
+  rotate: false
+  xy:800,1919
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00026
+  rotate: false
+  xy:871,1853
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p1_seq_00027
+  rotate: false
+  xy:946,1919
+  size:144,64
+  orig:144,64
+  offset:0,0
+  index: -1
+spinification_p2_seq_00000
+  rotate: false
+  xy:306,1897
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00001
+  rotate: false
+  xy:965,1085
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00002
+  rotate: true
+  xy:1929,681
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00003
+  rotate: false
+  xy:480,1897
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00004
+  rotate: false
+  xy:1139,1085
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00005
+  rotate: false
+  xy:611,1151
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00006
+  rotate: false
+  xy:611,1229
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00007
+  rotate: false
+  xy:785,1151
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00008
+  rotate: false
+  xy:611,1307
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00009
+  rotate: false
+  xy:785,1229
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00010
+  rotate: false
+  xy:611,1385
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00011
+  rotate: false
+  xy:785,1307
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00012
+  rotate: false
+  xy:611,1463
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00013
+  rotate: false
+  xy:785,1385
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00014
+  rotate: false
+  xy:611,1541
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00015
+  rotate: false
+  xy:785,1463
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00016
+  rotate: false
+  xy:611,1619
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00017
+  rotate: false
+  xy:785,1541
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00018
+  rotate: false
+  xy:611,1697
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00019
+  rotate: false
+  xy:785,1619
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00020
+  rotate: false
+  xy:785,1697
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00021
+  rotate: false
+  xy:725,1775
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00022
+  rotate: false
+  xy:959,1163
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00023
+  rotate: false
+  xy:959,1241
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00024
+  rotate: false
+  xy:1133,1163
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00025
+  rotate: false
+  xy:959,1319
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00026
+  rotate: false
+  xy:1133,1241
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p2_seq_00027
+  rotate: false
+  xy:959,1397
+  size:172,76
+  orig:172,76
+  offset:0,0
+  index: -1
+spinification_p3_seq_00000
+  rotate: false
+  xy:1147,1677
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00001
+  rotate: true
+  xy:1801,1067
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00002
+  rotate: true
+  xy:1880,953
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00003
+  rotate: true
+  xy:1907,1067
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00004
+  rotate: true
+  xy:1917,1181
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00005
+  rotate: true
+  xy:1255,1319
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00006
+  rotate: false
+  xy:1261,1677
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00007
+  rotate: false
+  xy:1375,1409
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00008
+  rotate: false
+  xy:1375,1515
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00009
+  rotate: false
+  xy:1489,1409
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00010
+  rotate: false
+  xy:1375,1621
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00011
+  rotate: false
+  xy:1489,1515
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00012
+  rotate: false
+  xy:1603,1409
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00013
+  rotate: false
+  xy:1489,1621
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00014
+  rotate: false
+  xy:1603,1515
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00015
+  rotate: false
+  xy:1717,1409
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00016
+  rotate: false
+  xy:1603,1621
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00017
+  rotate: false
+  xy:1717,1515
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00018
+  rotate: false
+  xy:1831,1409
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00019
+  rotate: false
+  xy:1717,1621
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00020
+  rotate: false
+  xy:1831,1515
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00021
+  rotate: false
+  xy:1831,1621
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00022
+  rotate: false
+  xy:1147,1783
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00023
+  rotate: false
+  xy:1261,1783
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00024
+  rotate: false
+  xy:1293,1925
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00025
+  rotate: false
+  xy:1407,1925
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00026
+  rotate: false
+  xy:1521,1925
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p3_seq_00027
+  rotate: false
+  xy:1635,1925
+  size:112,104
+  orig:112,104
+  offset:0,0
+  index: -1
+spinification_p4_seq_00000
+  rotate: true
+  xy:611,1775
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00001
+  rotate: false
+  xy:1133,1319
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00002
+  rotate: false
+  xy:959,1475
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00003
+  rotate: false
+  xy:959,1589
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00004
+  rotate: false
+  xy:959,1703
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00005
+  rotate: true
+  xy:1147,1433
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00006
+  rotate: true
+  xy:1147,1555
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00007
+  rotate: false
+  xy:1270,953
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00008
+  rotate: false
+  xy:1392,953
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00009
+  rotate: false
+  xy:1514,953
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00010
+  rotate: false
+  xy:1636,953
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00011
+  rotate: false
+  xy:1758,953
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00012
+  rotate: false
+  xy:1313,1067
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00013
+  rotate: false
+  xy:1435,1067
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00014
+  rotate: false
+  xy:1557,1067
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00015
+  rotate: false
+  xy:1679,1067
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00016
+  rotate: false
+  xy:1307,1181
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00017
+  rotate: false
+  xy:1429,1181
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00018
+  rotate: false
+  xy:1551,1181
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00019
+  rotate: false
+  xy:1673,1181
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00020
+  rotate: false
+  xy:1795,1181
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00021
+  rotate: true
+  xy:1261,1433
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00022
+  rotate: true
+  xy:1261,1555
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00023
+  rotate: false
+  xy:1361,1295
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00024
+  rotate: false
+  xy:1483,1295
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00025
+  rotate: false
+  xy:1605,1295
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00026
+  rotate: false
+  xy:1727,1295
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+spinification_p4_seq_00027
+  rotate: false
+  xy:1849,1295
+  size:120,112
+  orig:120,112
+  offset:0,0
+  index: -1
+

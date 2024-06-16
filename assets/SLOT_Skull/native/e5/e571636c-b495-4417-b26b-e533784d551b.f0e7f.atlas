@@ -1,0 +1,48 @@
+background.png
+size: 2040,1472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eyeballs_right
+  rotate: false
+  xy:956,1436
+  size:96,32
+  orig:96,32
+  offset:0,0
+  index: -1
+eyelids_right
+  rotate: false
+  xy:588,1376
+  size:88,24
+  orig:88,24
+  offset:0,0
+  index: -1
+pupils_right
+  rotate: false
+  xy:588,1408
+  size:80,32
+  orig:80,32
+  offset:0,0
+  index: -1
+reflection_right
+  rotate: false
+  xy:356,1452
+  size:64,16
+  orig:64,16
+  offset:0,0
+  index: -1
+shade_right
+  rotate: false
+  xy:1356,1404
+  size:80,24
+  orig:80,24
+  offset:0,0
+  index: -1
+skull_right
+  rotate: false
+  xy:1236,508
+  size:120,120
+  orig:120,120
+  offset:0,0
+  index: -1
+

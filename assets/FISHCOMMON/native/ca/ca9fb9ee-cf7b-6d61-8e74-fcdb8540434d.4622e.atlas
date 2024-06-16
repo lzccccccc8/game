@@ -1,0 +1,90 @@
+
+寄居蟹2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+炸弹
+  rotate: false
+  xy: 1, 1
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+引线
+  rotate: false
+  xy: 243, 1
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+腿
+  rotate: false
+  xy: 171, 118
+  size: 97, 25
+  orig: 97, 25
+  offset: 0, 0
+  index: -1
+爪
+  rotate: false
+  xy: 1, 171
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 174, 171
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+眼
+  rotate: false
+  xy: 296, 63
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 171, 1
+  size: 70, 57
+  orig: 70, 57
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 330, 1
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 171, 60
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 256, 171
+  size: 72, 75
+  orig: 72, 75
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 236, 63
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 86, 171
+  size: 86, 70
+  orig: 86, 70
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+scatter.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h
+  rotate: false
+  xy: 315, 391
+  size: 100, 107
+  orig: 100, 107
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 114, 90
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shexianguangdian (35)
+  rotate: false
+  xy: 114, 90
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+zhuan
+  rotate: false
+  xy: 2, 346
+  size: 187, 152
+  orig: 187, 152
+  offset: 0, 0
+  index: -1
+zhuan_001
+  rotate: false
+  xy: 2, 2
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+zhuan_002
+  rotate: false
+  xy: 2, 26
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+zhuan_003
+  rotate: false
+  xy: 30, 35
+  size: 18, 43
+  orig: 18, 43
+  offset: 0, 0
+  index: -1
+zhuan_004
+  rotate: false
+  xy: 158, 290
+  size: 18, 54
+  orig: 18, 54
+  offset: 0, 0
+  index: -1
+zhuan_005
+  rotate: false
+  xy: 445, 476
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+zhuan_006
+  rotate: false
+  xy: 417, 446
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+zhuan_007
+  rotate: false
+  xy: 417, 401
+  size: 18, 43
+  orig: 18, 43
+  offset: 0, 0
+  index: -1
+zhuan_008
+  rotate: true
+  xy: 191, 357
+  size: 18, 54
+  orig: 18, 54
+  offset: 0, 0
+  index: -1
+zhuan_009
+  rotate: false
+  xy: 2, 80
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+zhuan_010
+  rotate: false
+  xy: 191, 377
+  size: 122, 121
+  orig: 122, 121
+  offset: 0, 0
+  index: -1
+zhuan_011
+  rotate: false
+  xy: 2, 192
+  size: 154, 152
+  orig: 154, 152
+  offset: 0, 0
+  index: -1
